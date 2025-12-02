@@ -33,5 +33,5 @@ Analyze Superstore sales data to identify top revenue drivers across product cat
 
 ---
 
-👨‍💻 *Created by: [Your Name]*  
-📍 Netherlands | 📧 Your Email | 🔗 [GitHub / LinkedIn]
+👨‍💻 *Created by: Ryuho  
+📍 Netherlands | 📧 Kumagorou.ryuho@gmail.com | 🔗 [GitHub / LinkedIn]
